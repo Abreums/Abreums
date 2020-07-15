@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá!
+
+Meu nome é Marcos Abreu e agradeço pela sua visita.   
+
+Não deixe de conhecer meu blog: http://abreums.github.io/blog
+
 
 <!--
 **Abreums/Abreums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
