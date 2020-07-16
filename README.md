@@ -1,8 +1,10 @@
 ### Olá!
 
-Meu nome é Marcos Abreu e agradeço pela sua visita.   
+Estou reorganizando meus repositórios. 
 
-Não deixe de conhecer meu blog: http://abreums.github.io/blog
+Também estou mudando meu blog para hugo e deverá ficar indisponível por alguns dias.  
+
+Obrigado pela atenção.   
 
 
 <!--
